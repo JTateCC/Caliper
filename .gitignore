@@ -219,3 +219,4 @@ __marimo__/
 
 #pycharm
 .idea/
+/tests/testFiles/
